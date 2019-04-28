@@ -4,6 +4,8 @@
     <test name="Groups" >
         <classes>
             <class name="com.grinpres1st.trello.BoardCreationTest" />
+            <class name="com.grinpres1st.trello.ListCreationTest" />
+            <class name="com.grinpres1st.trello.CardCreationTest" />
         </classes>
     </test>
 </suite>

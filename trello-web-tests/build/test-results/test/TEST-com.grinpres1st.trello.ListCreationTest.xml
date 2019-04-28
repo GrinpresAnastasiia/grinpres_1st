@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.grinpres1st.trello.ListCreationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-28T10:33:37" hostname="DESKTOP-6QVFCN1" time="20.824">
+  <properties/>
+  <testcase name="addNewListOnBoard" classname="com.grinpres1st.trello.ListCreationTest" time="20.824"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1) on port 37654
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1556447603.012][WARNING]: Timed out connecting to Chrome, retrying...
+Apr 28, 2019 12:33:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>

@@ -14,7 +14,7 @@ public class BoardCreationTest extends TestBase {
     @Test
     public void creatBoardTest() {
         initBoardCreationFromDesk();
-        typeBoardName("New");
+        typeBoardName("Hello");
         submitBoardCreation();
     }
 
